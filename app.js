@@ -1,0 +1,1 @@
+<button onclick="alert('Boton clicado');">Haz click aqui</button>
